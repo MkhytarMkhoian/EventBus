@@ -1,6 +1,8 @@
 # EventBus
 Type safety EventBus with RxJava 2
 
+https://medium.com/@mkhytar.mkhoian/type-safety-eventbus-with-rxjava-2-c10d3ea6f7e0
+
 ## License
 ```
 Copyright (c) 2020 Lalafo.
