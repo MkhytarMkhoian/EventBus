@@ -1,4 +1,4 @@
-package com.mkhytarmkhoian.myapplication;
+package com.mkhytarmkhoian.eventbus;
 
 import android.content.Context;
 
